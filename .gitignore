@@ -1,0 +1,25 @@
+# Generated outputs
+output/
+
+# Memory / journal
+memory/
+
+# Downloads (paper PDFs etc.)
+downloads/
+
+# R environment
+.Rhistory
+.Rdata
+.Rproj.user/
+
+# OS junk
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
+
+# Claude Code
+.claude/
